@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "name": "Netlify Utility Functions",
+  "version": "1.0.0",
+  "description": "Miscellaneous functions",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katiekodesnetlify/netlify-utility-functions.git"
+  },
+  "author": "Katie Kodes",
+  "bugs": {
+    "url": "https://github.com/katiekodesnetlify/netlify-utility-functions/issues"
+  }
+}
