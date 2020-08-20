@@ -28,7 +28,6 @@
 */
 
 exports.handler = async (event) => {
-  const { id, email, price } = ;
   return {
     statusCode: 200,
     body: event.body,
