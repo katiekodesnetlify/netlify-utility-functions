@@ -1,5 +1,5 @@
 // https://payhip.com/support/webhooks/
-// Example POST payload:
+// Example POST payload (note that price is cents, not dollars):
 /*
 {
   "id": "1603801",
