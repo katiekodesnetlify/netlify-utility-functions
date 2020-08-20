@@ -27,7 +27,7 @@
 }
 */
 
-exports.handler = async (event) => { // STEP 6 -- replace Unsplash with rainbow corgi if logged-in role does not match Unsplash auth role
+exports.handler = async (event) => {
   const { id, email, price } = ;
   return {
     statusCode: 200,
